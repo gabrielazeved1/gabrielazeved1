@@ -82,5 +82,3 @@ UFU, Uberlândia, MG
 </p>
 
 
-
-<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=gabrielazeved1&show_icons=true&hide=contribs&count_private=true&theme=tokyonight" />
