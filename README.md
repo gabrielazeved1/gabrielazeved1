@@ -31,7 +31,7 @@ Sou um profissional com sólida formação em **Engenharia de Computação**, co
 ## 💼 Experiência
 ### Iniciação Científica  
 **Desenvolvimento e Implementação de Data Lake Local** | Abril de 2025 - Atualmente  
-Laboratório LMEST - UFU, Uberlândia, MG  
+Laboratório LMEST - UFU, Uberlândia, MG.  
 
 - Configuração de partições em servidor Linux e desenvolvimento de Data Lake local.  
 - Utilização de **Python, Pandas e MinIO** para orquestração, processamento e armazenamento de datasets.
