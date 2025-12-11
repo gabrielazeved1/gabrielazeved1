@@ -46,38 +46,39 @@ UFU, Uberlândia, MG
 
 ## 🛠 Habilidades
 
-<p align="center">
-  <!-- Linguagens e Frameworks -->
-  <img alt="Python" title="Python" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" title="Node.js" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <!-- Bancos de dados -->
-  <img alt="SQL" title="SQL" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-  <!-- Ferramentas e tecnologias -->
-  <img alt="Git" title="Git" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Docker" title="Docker" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="n8n" title="n8n" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/n8n-white?style=flat&logo=n8n&logoColor=black" />
-  <img alt="Databricks" title="Databricks" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/Databricks-EA4F32?style=flat&logo=databricks&logoColor=white" />
-  <img alt="Pandas" title="Pandas" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img alt="Apache" title="Apache" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/Apache-F8DC75?style=flat&logo=apache&logoColor=black" />
-  <img alt="MinIO" title="MinIO" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/MinIO-1976D2?style=flat&logo=minio&logoColor=white" />
-  <img alt="Verilog" title="Verilog" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/Verilog-000000?style=flat&logo=verilog&logoColor=white" />
-  <img alt="Circuitos" title="Circuitos" width="30px" style="margin:0 8px;" src="https://img.shields.io/badge/Circuitos-FFB500?style=flat&logo=electrical-engineering&logoColor=white" />
-  <img alt="Haskell" title="Haskell" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-  <img alt="C" title="C" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C#" title="C#" width="30px" style="margin:0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</p>
-
----
-### 📊 Estatísticas GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielazeved1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img alt="Python" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="C" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C#" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Haskell" height="40" style="margin:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+  
+  <br/><br/>
+
+  <img alt="PostgreSQL" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Databricks" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/Databricks-EA4F32?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img alt="Pandas" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="MinIO" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/MinIO-1976D2?style=for-the-badge&logo=minio&logoColor=white" />
+  <img alt="n8n" height="30" style="margin:0 5px;" src="https://img.shields.io/badge/n8n-FF6E89?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
+---
 
+### 📊 Estatísticas GitHub
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielazeved1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    </td>
+    <td align="center" width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
