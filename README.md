@@ -73,20 +73,16 @@ UFU, Uberlândia, MG
 ### 📊 Estatísticas GitHub  
 <div align="center">
 
-  <!-- GitHub Stats geral -->
-<img height="180em" src="https://github-readme-stats-github-delta.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&theme=tokyonight&hide_border=true" />
-
-
-  <br/><br/>
-
-  <!-- Top linguagens -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=7200" />
-
+  <!-- GitHub Stats -->
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielazeved1&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/gabrielazeved1)
 
   <br/><br/>
 
-  <!-- GitHub streak (opcional) -->
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=gabrielazeved1&theme=tokyonight)](https://github.com/gabrielazeved1)
+  <!-- Top Linguagens (use uma das opções abaixo) -->
+  <!-- Opção A Mirror -->
+  <img height="180em" src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <!-- Opção B Alternativa Shields.io -->
+  <!-- ![Top Languages](https://img.shields.io/github/languages/top/gabrielazeved1/gabrielazeved1?theme=tokyonight) -->
 
 </div>
-
