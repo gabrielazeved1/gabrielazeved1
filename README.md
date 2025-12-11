@@ -80,7 +80,8 @@ UFU, Uberlândia, MG
   <br/><br/>
 
   <!-- Top linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=7200" />
+
 
   <br/><br/>
 
