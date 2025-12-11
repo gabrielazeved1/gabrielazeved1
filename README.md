@@ -77,5 +77,5 @@ UFU, Uberlândia, MG
   
   <br/><br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielazeved1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://profile-summary-cards-with-theme.vercel.app/api/top-langs?username=gabrielazeved1&theme=github_dark&layout=compact"/>
 </div>
