@@ -70,12 +70,16 @@ UFU, Uberlândia, MG
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub  
+<div align="center">  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielazeved1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=gabrielazeved1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <br/><br/>
-  
-  <img height="180em" src="https://profile-summary-cards-with-theme.vercel.app/api/top-langs?username=gabrielazeved1&theme=github_dark&layout=compact"/>
+
+  <!-- Top Linguagens Mirror Estável -->
+  <img height="180em" src="https://stats.dooboo.io/api/top-langs?username=gabrielazeved1&theme=tokyonight&layout=compact" />
+
 </div>
+
