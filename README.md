@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack / Engenheiro de Computação`**  
 
-📞 (38) 99997-5558  
 ✉️ gazevedo.ti@gmail.com  
 
 ## 🔗 Contatos
